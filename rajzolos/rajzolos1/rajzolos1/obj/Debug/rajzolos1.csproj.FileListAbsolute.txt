@@ -5,3 +5,10 @@ D:\visual studio\rajzolos1\rajzolos1\obj\Debug\rajzolos1.csproj.AssemblyReferenc
 D:\visual studio\rajzolos1\rajzolos1\obj\Debug\rajzolos1.csproj.CoreCompileInputs.cache
 D:\visual studio\rajzolos1\rajzolos1\obj\Debug\rajzolos1.exe
 D:\visual studio\rajzolos1\rajzolos1\obj\Debug\rajzolos1.pdb
+C:\Users\szuzg\Source\Repos\SzuzGyorgyPeter\Rajzolosprogram\rajzolos\rajzolos1\rajzolos1\bin\Debug\rajzolos1.exe.config
+C:\Users\szuzg\Source\Repos\SzuzGyorgyPeter\Rajzolosprogram\rajzolos\rajzolos1\rajzolos1\bin\Debug\rajzolos1.exe
+C:\Users\szuzg\Source\Repos\SzuzGyorgyPeter\Rajzolosprogram\rajzolos\rajzolos1\rajzolos1\bin\Debug\rajzolos1.pdb
+C:\Users\szuzg\Source\Repos\SzuzGyorgyPeter\Rajzolosprogram\rajzolos\rajzolos1\rajzolos1\obj\Debug\rajzolos1.csproj.AssemblyReference.cache
+C:\Users\szuzg\Source\Repos\SzuzGyorgyPeter\Rajzolosprogram\rajzolos\rajzolos1\rajzolos1\obj\Debug\rajzolos1.csproj.CoreCompileInputs.cache
+C:\Users\szuzg\Source\Repos\SzuzGyorgyPeter\Rajzolosprogram\rajzolos\rajzolos1\rajzolos1\obj\Debug\rajzolos1.exe
+C:\Users\szuzg\Source\Repos\SzuzGyorgyPeter\Rajzolosprogram\rajzolos\rajzolos1\rajzolos1\obj\Debug\rajzolos1.pdb
